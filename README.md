@@ -5,7 +5,7 @@ Create responsive portfolio by using HTML, CSS, bootstrap and font awsome.
 ## Link to deployed app
 [my portfolio link](https://cmatsuta.github.io/myportfolio/)
 
-## APP Description
+## App Description
 * About me
 Used navbar and grid system to write about my biography.
 Uploaded the picture of me in the image file.
